@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio5 {
+public class Exercicio5 {
     public static void main(String[] args) {
         // 1 - Obter os valores de A, B e C
         Scanner scanner = new Scanner(System.in);

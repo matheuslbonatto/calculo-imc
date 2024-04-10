@@ -1,4 +1,4 @@
-public class exercicio4 {
+public class Exercicio4 {
     public static void main(String[] args) {
         int largura = 12;
         int altura = 7;

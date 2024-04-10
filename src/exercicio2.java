@@ -1,4 +1,4 @@
-public class exercicio2 {
+public class Exercicio2 {
     public static void main(String[] args) {
         // 2 - Declare duas variáveis do tipo double chamadas num1 e num2
         // e inicialize-as com quaisquer valores decimais.
