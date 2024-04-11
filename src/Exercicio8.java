@@ -51,12 +51,12 @@ public class Exercicio8 {
     // relação à quantidade de eleitores.
     final double percentualVotosEmBranco = votosEmBranco * 100 / totalEleitores;
 
-    System.out.println("Percentual votos validos: " + percentualVotosValidos);
+    System.out.println("Percentual votos validos: "           + percentualVotosValidos);
     System.out.println("Percentual de votos do candidato 1: " + percentualVotosCandidato1);
     System.out.println("Percentual de votos do candidato 2: " + percentualVotosCandidato2);
     System.out.println("Percentual de votos do candidato 3: " + percentualVotosCandidato3);
-    System.out.println("Percentual de votos nulos: " + percentualVotosNulos);
-    System.out.println("Percentual de votos em branco: " + percentualVotosEmBranco);
+    System.out.println("Percentual de votos nulos: "          + percentualVotosNulos);
+    System.out.println("Percentual de votos em branco: "      + percentualVotosEmBranco);
 
     scanner.close();
     }
